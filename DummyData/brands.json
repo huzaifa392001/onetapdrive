@@ -1,0 +1,232 @@
+[
+    {
+        "name": "alfa romeo",
+        "img": "/images/brands/1.webp",
+        "url": "1"
+    },
+    {
+        "name": "aston martin",
+        "img": "/images/brands/2.webp",
+        "url": "2"
+    },
+    {
+        "name": "audi",
+        "img": "/images/brands/3.webp",
+        "url": "3"
+    },
+    {
+        "name": "bentley",
+        "img": "/images/brands/4.webp",
+        "url": "4"
+    },
+    {
+        "name": "BMW",
+        "img": "/images/brands/5.webp",
+        "url": "5"
+    },
+    {
+        "name": "cadillac",
+        "img": "/images/brands/6.webp",
+        "url": "6"
+    },
+    {
+        "name": "chevrolet",
+        "img": "/images/brands/7.webp",
+        "url": "7"
+    },
+    {
+        "name": "chrysler",
+        "img": "/images/brands/8.webp",
+        "url": "8"
+    },
+    {
+        "name": "citroen",
+        "img": "/images/brands/9.webp",
+        "url": "9"
+    },
+    {
+        "name": "dodge",
+        "img": "/images/brands/10.webp",
+        "url": "10"
+    },
+    {
+        "name": "Ferrari",
+        "img": "/images/brands/11.webp",
+        "url": "11"
+    },
+    {
+        "name": "fiat",
+        "img": "/images/brands/12.webp",
+        "url": "12"
+    },
+    {
+        "name": "ford",
+        "img": "/images/brands/13.webp",
+        "url": "13"
+    },
+    {
+        "name": "GAC",
+        "img": "/images/brands/14.webp",
+        "url": "14"
+    },
+    {
+        "name": "genesis",
+        "img": "/images/brands/15.webp",
+        "url": "15"
+    },
+    {
+        "name": "GMC",
+        "img": "/images/brands/16.webp",
+        "url": "16"
+    },
+    {
+        "name": "honda",
+        "img": "/images/brands/17.webp",
+        "url": "17"
+    },
+    {
+        "name": "hongqi",
+        "img": "/images/brands/18.webp",
+        "url": "18"
+    },
+    {
+        "name": "hyundai",
+        "img": "/images/brands/19.webp",
+        "url": "19"
+    },
+    {
+        "name": "infiniti",
+        "img": "/images/brands/20.webp",
+        "url": "20"
+    },
+    {
+        "name": "JAC",
+        "img": "/images/brands/21.webp",
+        "url": "21"
+    },
+    {
+        "name": "jaguar",
+        "img": "/images/brands/22.webp",
+        "url": "22"
+    },
+    {
+        "name": "jeep",
+        "img": "/images/brands/23.webp",
+        "url": "23"
+    },
+    {
+        "name": "kia",
+        "img": "/images/brands/24.webp",
+        "url": "24"
+    },
+    {
+        "name": "lamborghini",
+        "img": "/images/brands/25.webp",
+        "url": "25"
+    },
+    {
+        "name": "land rover",
+        "img": "/images/brands/26.webp",
+        "url": "26"
+    },
+    {
+        "name": "lexus",
+        "img": "/images/brands/27.webp",
+        "url": "27"
+    },
+    {
+        "name": "lincoln",
+        "img": "/images/brands/28.webp",
+        "url": "28"
+    },
+    {
+        "name": "maserati",
+        "img": "/images/brands/29.webp",
+        "url": "29"
+    },
+    {
+        "name": "mazda",
+        "img": "/images/brands/30.webp",
+        "url": "30"
+    },
+    {
+        "name": "McLaren",
+        "img": "/images/brands/31.webp",
+        "url": "31"
+    },
+    {
+        "name": "Mercedes benz",
+        "img": "/images/brands/32.webp",
+        "url": "32"
+    },
+    {
+        "name": "MG",
+        "img": "/images/brands/33.webp",
+        "url": "33"
+    },
+    {
+        "name": "mini",
+        "img": "/images/brands/34.webp",
+        "url": "34"
+    },
+    {
+        "name": "mitsubishi",
+        "img": "/images/brands/35.webp",
+        "url": "35"
+    },
+    {
+        "name": "nissan",
+        "img": "/images/brands/36.webp",
+        "url": "36"
+    },
+    {
+        "name": "opel",
+        "img": "/images/brands/37.webp",
+        "url": "37"
+    },
+    {
+        "name": "peugoet",
+        "img": "/images/brands/38.webp",
+        "url": "38"
+    },
+    {
+        "name": "polaris",
+        "img": "/images/brands/39.webp",
+        "url": "39"
+    },
+    {
+        "name": "porche",
+        "img": "/images/brands/40.webp",
+        "url": "40"
+    },
+    {
+        "name": "renault",
+        "img": "/images/brands/41.webp",
+        "url": "41"
+    },
+    {
+        "name": "rolls royce",
+        "img": "/images/brands/42.webp",
+        "url": "42"
+    },
+    {
+        "name": "suzuki",
+        "img": "/images/brands/43.webp",
+        "url": "43"
+    },
+    {
+        "name": "tesla",
+        "img": "/images/brands/44.webp",
+        "url": "44"
+    },
+    {
+        "name": "toyota",
+        "img": "/images/brands/45.webp",
+        "url": "45"
+    },
+    {
+        "name": "volkswagen",
+        "img": "/images/brands/46.webp",
+        "url": "46"
+    }
+]

@@ -1,0 +1,5 @@
+.adminSidebar {
+    @apply w-[300px] bg-[var(--black)];
+    flex: 0 1 300px;
+    height: calc(100% - 3.5rem);
+}

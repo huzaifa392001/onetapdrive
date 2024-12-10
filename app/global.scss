@@ -1,0 +1,103 @@
+@use "./index.css" as *;
+
+html {
+	font-size: 16px;
+	overflow-x: clip;
+	scroll-behavior: initial !important;
+	overscroll-behavior: none !important;
+
+	@include respond-to($breakpoint-xl) {
+		font-size: 14px !important; // xl
+	}
+
+	@include respond-to($breakpoint-lg) {
+		font-size: 12px !important; // lg
+	}
+
+	@include respond-to($breakpoint-md) {
+		font-size: 14px !important; // md
+	}
+
+	@include respond-to($breakpoint-sm) {
+		font-size: 13px !important; // sm
+		section {
+			@apply py-6 px-4;
+		}
+	}
+
+	@include respond-to($breakpoint-xs) {
+		font-size: 11px !important; // xs
+	}
+
+	&.lenis {
+		@apply h-auto;
+		.body {
+			@apply h-auto;
+		}
+		&.lenis-smooth {
+			scroll-behavior: auto !important;
+			&[data-lenis-prevent] {
+				overscroll-behavior: contain;
+			}
+			iframe {
+				@apply pointer-events-none;
+			}
+		}
+		&.lenis-stopped {
+			@apply overflow-hidden;
+		}
+	}
+}
+
+::-webkit-scrollbar {
+	width: 5px;
+	height: 2px;
+	background-color: #f5f5f5;
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background: var(--theme-color);
+}
+
+.inputCont {
+	@apply relative border border-[var(--white)] rounded-md h-8 min-w-[350px] overflow-hidden;
+	input {
+		@apply bg-transparent border-none outline-none w-full h-full px-2 text-[14px];
+
+		&::placeholder {
+			@apply text-[var(--white)];
+		}
+	}
+
+	&.withBtn {
+		input {
+			@apply pr-10;
+		}
+		button {
+			@apply absolute top-2/4 -translate-y-2/4 right-0 h-full w-8 flex items-center justify-center text-[var(--white)];
+		}
+	}
+
+	+ .inputCont,
+	+ .btnCont {
+		@apply my-4;
+	}
+}
+
+.themeBtn {
+	@apply inline-block bg-[var(--theme-color)] py-2 px-4 rounded-lg text-[var(--secondary-color)] font-semibold text-[14px] border border-transparent transition-all duration-200 uppercase;
+
+	&:hover {
+		@apply bg-[var(--secondary-color)] text-[var(--theme-color)] border-[var(--theme-color)];
+	}
+}
+
+section {
+	position: relative;
+	padding: 5rem 0;
+}
+
+.customContainer {
+	@apply container mx-auto;
+}

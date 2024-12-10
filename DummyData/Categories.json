@@ -1,0 +1,42 @@
+[
+    {
+        "name": "SUV",
+        "img": "/images/categories/suv.webp",
+        "quantity": 5
+    },
+    {
+        "name": "Sedan",
+        "img": "/images/categories/sedan.webp",
+        "quantity": 7
+    },
+    {
+        "name": "Crossover",
+        "img": "/images/categories/Crossover.webp",
+        "quantity": 2
+    },
+    {
+        "name": "Luxury Car",
+        "img": "/images/categories/luxury.webp",
+        "quantity": 23
+    },
+    {
+        "name": "Convertible",
+        "img": "/images/categories/convertible.webp",
+        "quantity": 42
+    },
+    {
+        "name": "7 Seater",
+        "img": "/images/categories/7-seater.webp",
+        "quantity": 12
+    },
+    {
+        "name": "Compact",
+        "img": "/images/categories/compact.webp",
+        "quantity": 56
+    },
+    {
+        "name": "Sports Car",
+        "img": "/images/categories/sports.webp",
+        "quantity": 2
+    }
+]
